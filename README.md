@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for Data Scientist roles
 - 🧑‍💻 I specialize in Python, SQL, Tableau, & Looker
 - 💬 Ask me about my passion for making data accessible to all
-- 📫 How to reach me: [...](https://www.linkedin.com/in/chloe-le-comte/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chloe-le-comte/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love crafting and am learning how to sew bags using cyanotype fabric! 🧵
 
