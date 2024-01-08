@@ -5,8 +5,11 @@
 - 💬 Ask me about my passion for making data accessible to all
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chloe-le-comte/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love crafting and am learning how to sew bags using cyanotype fabric! 🧵
+- ⚡ Fun fact: I love crafting and am learning how to sew bags using cyanotyped fabric! 🧵
 
+### Python Projects
+- Data Cleaning & Processing: [Seattle Food Inspections](https://github.com/chloelecomte/Seattle_Food_Inspections)
+- Data Analysis & Visualization: [Trending Books](https://github.com/chloelecomte/TrendingBooks)
 <!--
 **chloelecomte/chloelecomte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
